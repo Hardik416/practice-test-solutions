@@ -62,4 +62,4 @@ Run:
 
 ## 🌟 Support
 
-If this repository helps in
+If this repository helps in your preparation, consider giving it a **⭐ star** — it helps a lot!
